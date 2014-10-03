@@ -1,0 +1,3 @@
+[submodule "colorswap"]
+	path = colorswap
+	url = https://github.com/numtel/colorswap.js.git
